@@ -1,7 +1,5 @@
 # TFT_Menu: A Dynamic Menu System for TFT Displays
 
-![Menu System Demo](https://via.placeholder.com/600x400?text=TFT_Menu+System+Demo) <!-- Placeholder image, replace with an actual screenshot or GIF -->
-
 TFT_Menu is a lightweight and highly customizable menu system designed for TFT displays, specifically built upon the `TFT_eSPI` library. It provides a smooth, animated, and intuitive user interface for embedded projects, supporting hierarchical menus with various visual feedback options.
 
 ## Features
